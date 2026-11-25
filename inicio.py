@@ -1,1 +1,2 @@
 print("bomboclyat")
+a="bomboclytat"
